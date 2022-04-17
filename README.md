@@ -1,4 +1,4 @@
-# llocer_ocpi_json
+# llocer_ocpp_json
 
 json schemes for OCPP 2.0.1 messages
 
